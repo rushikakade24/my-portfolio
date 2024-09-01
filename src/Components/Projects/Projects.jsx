@@ -135,7 +135,7 @@ export const Projects = () => {
                     rel="noreferrer"
                   >
                     <span type="button" className="btns onbt">
-                    See Code
+                      See code
                     </span>
                   </a>
                   

@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.d125c99e.css",
+    "main.js": "/my-portfolio/static/js/main.0564c3b4.js",
+    "static/media/Food-app-ss.png": "/my-portfolio/static/media/Food-app-ss.99c58934b1cfc64c1594.png",
+    "static/media/Hotel-managment.png": "/my-portfolio/static/media/Hotel-managment.91bede73c3bf58a4501c.png",
+    "static/media/Photo_fw14_056.png": "/my-portfolio/static/media/Photo_fw14_056.89d331ae0646a9d9ae89.png",
+    "static/media/Visator.jpg": "/my-portfolio/static/media/Visator.5deeb6160039b139e4ca.jpg",
+    "static/media/S-logo.png": "/my-portfolio/static/media/S-logo.b608afabe2f492c99b80.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.d125c99e.css.map": "/my-portfolio/static/css/main.d125c99e.css.map",
+    "main.0564c3b4.js.map": "/my-portfolio/static/js/main.0564c3b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d125c99e.css",
+    "static/js/main.0564c3b4.js"
+  ]
+}
