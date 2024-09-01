@@ -130,12 +130,12 @@ export const Projects = () => {
                 </div>
                 <div>
                   <a
-                    href="https://visatorrealty.com/index.php"
+                    href="https://github.com/rushikakade24/Hospital_managment"
                     target="_blank"
                     rel="noreferrer"
                   >
                     <span type="button" className="btns onbt">
-                      See this Live
+                    See Code
                     </span>
                   </a>
                   
