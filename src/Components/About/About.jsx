@@ -20,7 +20,7 @@ export const About = () => {
         </h1>
         <Type />
         <p className="about__desc" data-aos="fade-right">
-        Passionate and creative Frontend Developer with proficiency in JavaScript, HTML, CSS, React, Bootstrap, Tailwind CSS and related libraries. Equipped with a variety of tools and technologies, including the Typescript, Asp.net, C#, SQL, and always eager to learn new ones. Successfully Created 5+ projects.
+        Passionate and creative Frontend Developer with proficiency in JavaScript, HTML, CSS, React, Bootstrap, Tailwind CSS ,UI/UX and related libraries. Equipped with a variety of tools and technologies, including the Typescript, Asp.net, C#, SQL, and always eager to learn new ones. Successfully Created 5+ projects.
         </p>
         <div className="about__contact center">
           <a

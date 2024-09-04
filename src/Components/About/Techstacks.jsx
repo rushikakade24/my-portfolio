@@ -2,6 +2,7 @@ import React from "react";
 import "./Techstacks.css";
 import { FaReact,  FaAws } from "react-icons/fa";
 import { SiDotnet,SiCsharp, SiMicrosoftsqlserver , SiTypescript } from "react-icons/si";
+import { SiFigma } from "react-icons/si";
 
 <SiDotnet />
 
@@ -63,8 +64,8 @@ export const Techstacks = () => {
           </div>
 
           <div>
-            < SiMaterialui />
-            <h5>Material UI</h5>
+          <SiFigma /> 
+            <h5>UI/UX</h5>
           </div>
           <div>
             <BsBootstrap />
